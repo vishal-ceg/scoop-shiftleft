@@ -1,7 +1,7 @@
   
 {
-    "version": "v1.1.2",
-    "url":  "https://github.com/vishal-ceg/shiftleft-cli/releases/download/v1.1.2/shiftleft.exe",
+    "version": "v1.1.3",
+    "url":  "https://github.com/vishal-ceg/shiftleft-cli/releases/download/v1.1.3/shiftleft.exe",
     "bin": [
         [
           "shiftleft.exe",
