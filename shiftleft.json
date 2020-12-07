@@ -1,0 +1,13 @@
+  
+{
+    "version": "v1.1.1",
+    "url":  "https://github.com/vishal-ceg/shiftleft-cli/releases/download/v1.1.1/shiftleft.exe",
+    "bin": [
+        [
+          "shiftleft.exe",
+          "shiftleft"
+        ]
+    ],
+    "homepage": "https://github.com/vishal-ceg/shiftleft-cli",
+    "description": "test"
+}
